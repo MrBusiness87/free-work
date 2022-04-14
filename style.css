@@ -1,0 +1,14 @@
+body{
+  background-color: antiquewhite;
+}
+
+header{
+  width: 800px;
+  height: 800px;
+  background-color: aqua;
+}
+
+h1{
+  font-style: italic;
+  text-align: center;
+}
