@@ -1,0 +1,17 @@
+.penguin{
+  width: 100px;
+  height: 100px;
+  position: relative;
+  margin: auto;
+}
+.penguin *{
+  position: absolute;
+}
+.penguin-top{
+  width: 50%;
+  height: 45%;
+  background-color: black;
+  border-radius: 70% 70% 60% 60%;
+  top: 10%;
+  left: 25%;
+}
