@@ -5,3 +5,11 @@ h1{
   font-style: italic;
   text-align: center;
 }
+.container{
+  background: gray;
+  position: fixed;
+  bottom: 0;
+  float: right;
+  margin-bottom: 0;
+  width: 50px;
+}/* contains the penguin character */
