@@ -12,6 +12,7 @@ header{
   margin-left: auto;
   margin-right: auto;
   align-content: center;
+  z-index: -2222;
 }
 h1{
   font-style: italic;

@@ -47,5 +47,104 @@
   left: 75%;
   transform: rotate(-45deg);
 }
-
+.right-cheek{
+  width: 60%;
+  height: 70%;
+  background: white;
+  border-radius: 70% 70% 60% 60%;
+  top: 15%;
+  left: 35%;
+}
+.left-cheek{
+  width: 60%;
+  height: 70%;
+  background: white;
+  border-radius: 70% 70% 60% 60%;
+  top: 15%;
+  left: 5%;
+}
+.belly{
+  width: 95%;
+  height: 100%;
+  background: white;
+  border-radius: 120% 120% 100% 100%;
+  top: 60%;
+  left: 2.5%;
+}
+.right-foot{
+  width: 15%;
+  height: 30%;
+  background: orange;
+  border-radius: 50%;
+  top: 85%;
+  left: 60%;
+  transform: rotate(80deg);
+  z-index: -1;
+}
+.left-foot{
+  width: 15%;
+  height: 30%;
+  background: orange;
+  border-radius: 50%;
+  top: 85%;
+  left: 25%;
+  transform: rotate(-80deg);
+  z-index: -1;
+}
+.right-eye{
+  width: 15%;
+  height: 17%;
+  background: black;
+  border-radius: 50%;
+  top: 45%;
+  left: 60%;
+}
+.left-eye{
+  width: 15%;
+  height: 17%;
+  background: black;
+  border-radius: 50%;
+  top: 45%;
+  left: 22%;
+}
+.sparkle{
+  width: 35%;
+  height: 35%;
+  background: white;
+  border-radius: 50%;
+  top: 25%;
+  left: 15%;
+}
+.right-blush{
+  width: 15%;
+  height: 10%;
+  background: red;
+  border-radius: 50%;
+  top: 65%;
+  left: 70%;
+}
+.left-blush{
+  width: 15%;
+  height: 10%;
+  background: red;
+  border-radius: 50%;
+  top: 65%;
+  left: 15%;
+}
+.top-beak{
+  width: 20%;
+  height: 10%;
+  background: darkorange;
+  border-radius: 50%;
+  top: 60%;
+  left: 40%;
+}
+.bottom-beak{
+  width: 15%;
+  height: 10%;
+  background: darkorange;
+  border-radius: 50%;
+  top: 66%;
+  left: 42%;
+}
 /* https://www.youtube.com/watch?v=cjFYDTm1qQw */
