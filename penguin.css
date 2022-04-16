@@ -1,8 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 .penguin{
-  width: 100px;
-  height: 100px;
+  width: 300px;
+  height: 300px;
   position: relative;
   margin: auto;
+  margin-top: 150px;
 }
 .penguin *{
   position: absolute;
@@ -10,10 +16,36 @@
 .penguin-top{
   width: 50%;
   height: 45%;
-  background-color: black;
+  background: black;
   border-radius: 70% 70% 60% 60%;
   top: 10%;
   left: 25%;
+}
+.penguin-bottom{
+  width: 53%;
+  height: 45%;
+  background: black;
+  top: 40%;
+  left: 23.5%;
+  border-radius: 70% 70% 100% 100%;
+}
+.right-hand{
+  width: 30%;
+  height: 60%;
+  background: black;
+  border-radius: 30% 30% 120% 30%;
+  top: 0;
+  left: -5%;
+  transform: rotate(45deg);
+}
+.left-hand{
+  width: 30%;
+  height: 60%;
+  background: black;
+  border-radius: 30% 30% 30% 120%;
+  top: 0;
+  left: 75%;
+  transform: rotate(-45deg);
 }
 
 /* https://www.youtube.com/watch?v=cjFYDTm1qQw */
