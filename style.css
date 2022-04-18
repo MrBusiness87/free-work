@@ -1,15 +1,25 @@
 body{
-  background-color: antiquewhite;
+  background: rgb(35, 42, 145);
 }
 h1{
   font-style: italic;
+  font-weight: 900;
   text-align: center;
+  color: white;
 }
 .container{
-  background: gray;
+  /* background: gray; */
   position: fixed;
   bottom: 0;
   right: 20px;
   float: right;
   width: 238px;
 }/* contains the penguin character */
+.main-window{
+  height: 800px;
+  margin-left: 10px;
+  margin-right: 10px;
+  background: gray;
+  border-radius: 90%;
+  border: 20px purple ridge;
+}
