@@ -17,10 +17,14 @@ h1{
   width: 238px;
 }/* contains the penguin character */
 .main-window{
-  height: 700px;
+  height: 725px;
   margin-left: 10px;
   margin-right: 10px;
-  background: rgb(172, 164, 63);
+  background-image: url(./images/dark-wood.jpg);
+  background-repeat: no-repeat;
+  background-size: 1100px;
+  background-position-x: center;
+  /* background: rgb(172, 164, 63); */
   border-radius: 90%;
   border: 20px green ridge;
 }
