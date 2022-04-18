@@ -3,6 +3,7 @@ body{
 }
 h1{
   font-style: italic;
+  text-decoration: underline wavy rgb(172, 164, 63);
   font-weight: 900;
   text-align: center;
   color: white;
@@ -11,15 +12,15 @@ h1{
   /* background: gray; */
   position: fixed;
   bottom: 0;
-  right: 20px;
+  right: 30px;
   float: right;
   width: 238px;
 }/* contains the penguin character */
 .main-window{
-  height: 800px;
+  height: 700px;
   margin-left: 10px;
   margin-right: 10px;
-  background: gray;
+  background: rgb(172, 164, 63);
   border-radius: 90%;
-  border: 20px purple ridge;
+  border: 20px green ridge;
 }

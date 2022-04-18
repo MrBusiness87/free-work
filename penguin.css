@@ -129,7 +129,7 @@
 .top-beak{
   width: 20%;
   height: 10%;
-  background: darkorange;
+  background: rgb(190, 109, 9);
   border-radius: 50%;
   top: 60%;
   left: 40%;
@@ -137,9 +137,22 @@
 .bottom-beak{
   width: 15%;
   height: 10%;
-  background: darkorange;
+  background: rgb(190, 109, 9);
   border-radius: 50%;
   top: 66%;
   left: 42%;
 }
 /* source: https://www.youtube.com/watch?v=cjFYDTm1qQw */
+.right-hand{
+  animation-duration: 1s;
+  animation-name: wave;
+  animation-iteration-count: infinite;
+}
+@keyframes wave {
+  from {
+    transform: rotate(-45deg);
+  }
+  to {
+    transform: rotate(-135deg);
+  }
+}
