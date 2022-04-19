@@ -1,15 +1,16 @@
 .face{
   height: 300px;
   width: 300px;
+  position: inherit;
   margin: auto;
-  margin-top: 150px;
+  margin-top: 80px;
 }
 .face *{
   position: absolute;
 }
 .head{
-  width: 50%;
-  height: 45%;
+  width: 60%;
+  height: 60%;
   background: rgb(206, 166, 114);
   border-radius: 70% 70% 60% 60%  ;
 }
