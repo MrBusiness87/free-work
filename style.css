@@ -22,14 +22,9 @@ h1{
   margin-right: 10px;
   background-image: url(./images/dark-wood.jpg);
   background-repeat: no-repeat;
-  background-size: 1100px;
+  background-size: cover;
   background-position-x: center;
   /* background: rgb(172, 164, 63); */
   border-radius: 90%;
   border: 20px green ridge;
-}
-button{
-  height: 45px;
-  width: 197px;
-  font-size: 36px;
 }

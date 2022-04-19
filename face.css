@@ -1,16 +1,9 @@
-.face{
-  height: 300px;
-  width: 300px;
-  position: inherit;
-  margin: auto;
-  margin-top: 80px;
-}
 .face *{
   position: absolute;
 }
 .head{
-  width: 60%;
-  height: 60%;
+  width: 350px;
+  height: 400px;
   background: rgb(206, 166, 114);
-  border-radius: 70% 70% 60% 60%  ;
+  border-radius: 65% 65% 80% 80% ;
 }
