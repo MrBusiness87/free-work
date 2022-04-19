@@ -2,4 +2,14 @@
   height: 300px;
   width: 300px;
   margin: auto;
+  margin-top: 150px;
+}
+.face *{
+  position: absolute;
+}
+.head{
+  width: 50%;
+  height: 45%;
+  background: rgb(206, 166, 114);
+  border-radius: 70% 70% 60% 60%  ;
 }
