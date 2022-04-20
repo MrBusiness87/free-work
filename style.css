@@ -3,7 +3,7 @@ body{
 }
 h1{
   font-style: italic;
-  text-decoration: underline wavy rgb(172, 164, 63);
+  text-decoration: underline wavy rgb(158, 133, 50);
   font-weight: 900;
   text-align: center;
   color: white;
@@ -18,8 +18,9 @@ h1{
 }/* contains the penguin character */
 .main-window{
   height: 725px;
-  margin-left: 10px;
-  margin-right: 10px;
+  width: 880px;
+  margin-left: auto;
+  margin-right: auto;
   background-image: url(./images/dark-wood.jpg);
   background-repeat: no-repeat;
   background-size: cover;
