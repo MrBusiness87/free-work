@@ -1,6 +1,7 @@
 body{
-  background: rgb(35, 42, 145);
-}
+  background: url(./images/darkblue-hires.jpg);
+  background-size: contain;
+  }
 h1{
   font-style: italic;
   text-decoration: underline wavy rgb(158, 133, 50);

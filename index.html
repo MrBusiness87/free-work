@@ -5,14 +5,16 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="toolbar.css">
   <link rel="stylesheet" href="penguin.css">
   <link rel="stylesheet" href="face.css">
   <title>Document</title>
 </head>
 <body>
-    <h1>Start of Something new!</h1>
+  <h1>Start of Something new!</h1>
+    <div id="toolbar"><button onclick="getElementById('demo').innerHTML=Date()">What is the time?</button></div>    
     <div class="main-window">
-      <div class="face">
+      <!-- <div class="face">
         <div class="head"></div>
         <div class="left-eye">
           <div class="iris"></div>
@@ -20,10 +22,10 @@
         <div class="right-eye">
           <div class="iris"></div>
         </div>
-      </div>
+      </div> -->
     </div>
     <div class="container">
-      <div class="penguin">
+      <!-- <div class="penguin">
         <div class="penguin-bottom">
           <div class="left-hand"></div>
           <div class="right-hand"></div>
@@ -45,7 +47,13 @@
           <div class="top-beak"></div>
           <div class="bottom-beak"></div>
         </div>
-      </div>
+      </div> -->
     </div>
+    <button id="demo" onclick="myFunction()">CLICK ME</button>
+    <script>
+      function myFunction(){
+        document.getElementById("demo").style.color="red";
+      }
+    </script>
 </body>
 </html>
