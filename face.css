@@ -8,9 +8,26 @@
   border-radius: 65% 65% 80% 80% ;
 }
 .face .left-eye{
-  width: 100px;
-  height: 100px;
+  width: 10%;
+  height: 10%;
   background: white;
   border-radius: 50%;
-  
+  margin-top: 150px;
+  margin-left: 50px;
+}
+.face .right-eye{
+  width: 10%;
+  height: 10%;
+  background: white;
+  border-radius: 50%;
+  margin-top: 150px;
+  margin-left: 200px;
+}
+.face .iris{
+  width: 35%;
+  height: 35%;
+  background: darkblue;
+  border-radius: 50%;
+  top: 25%;
+  left: 15%;
 }
