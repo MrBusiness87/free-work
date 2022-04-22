@@ -12,7 +12,15 @@
 </head>
 <body>
   <h1>Start of Something new!</h1>
-    <div id="toolbar"><button onclick="getElementById('demo').innerHTML=Date()">What is the time?</button></div>    
+    <div id="toolbar">
+      <button onclick="getElementById('demo').innerHTML=Date()">What is the time?</button>
+      <button id="demo" onclick="myFunction()">CLICK ME</button>
+      <script>
+        function myFunction(){
+        document.getElementById("demo").style.color="red";
+        }
+      </script>
+    </div>    
     <div class="main-window">
       <!-- <div class="face">
         <div class="head"></div>
@@ -49,11 +57,6 @@
         </div>
       </div> -->
     </div>
-    <button id="demo" onclick="myFunction()">CLICK ME</button>
-    <script>
-      function myFunction(){
-        document.getElementById("demo").style.color="red";
-      }
-    </script>
+
 </body>
 </html>

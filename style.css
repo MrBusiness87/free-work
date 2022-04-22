@@ -4,10 +4,10 @@ body{
   }
 h1{
   font-style: italic;
-  text-decoration: underline wavy rgb(158, 133, 50);
+  text-decoration: underline  rgb(158, 133, 50);
   font-weight: 900;
   text-align: center;
-  color: white;
+  color: rgb(158, 133, 50);
 }
 .container{
   /* background: gray; */
@@ -27,8 +27,7 @@ h1{
   background-size: cover;
   background-position-x: center;
   /* background: rgb(172, 164, 63); */
-  border-radius: 90%;
-  border: 20px green ridge;
+  border-radius: 40%;
 }
 .face{
   margin-left: 250px;
