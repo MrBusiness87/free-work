@@ -4,7 +4,7 @@ body{
   }
 h1{
   font-style: italic;
-  text-decoration: underline  rgb(158, 133, 50);
+  text-decoration: underline wavy rgb(158, 133, 50);
   font-weight: 900;
   text-align: center;
   color: rgb(158, 133, 50);
@@ -28,6 +28,7 @@ h1{
   background-position-x: center;
   /* background: rgb(172, 164, 63); */
   border-radius: 40%;
+  border: 2px rgb(158, 133, 50);
 }
 .face{
   margin-left: 250px;
