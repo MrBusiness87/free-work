@@ -7,3 +7,10 @@
   background: rgb(206, 166, 114);
   border-radius: 65% 65% 80% 80% ;
 }
+.face .left-eye{
+  width: 100px;
+  height: 100px;
+  background: white;
+  border-radius: 50%;
+  
+}

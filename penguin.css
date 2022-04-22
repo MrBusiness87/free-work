@@ -86,7 +86,7 @@
   transform: rotate(-80deg);
   z-index: -1;
 }
-.right-eye{
+.penguin .right-eye{
   width: 15%;
   height: 17%;
   background: black;
@@ -94,7 +94,7 @@
   top: 45%;
   left: 60%;
 }
-.left-eye{
+.penguin .left-eye{
   width: 15%;
   height: 17%;
   background: black;
