@@ -3,12 +3,14 @@ body{
   background-size: contain;
   }
 h1{
+  width: 330px;
   font-style: italic;
   border-style: dotted dashed solid double;
   font-weight: 900;
   text-align: center;
   color: rgb(158, 133, 50);
   text-decoration: solid green;
+  margin: 5px auto 10px;
 }
 .container{
   /* background: gray; */
