@@ -19,6 +19,8 @@
 //   var dateTime = date+' '+time;
 //   document.getElementById("currentDateTime").value = dateTime;
 
+// getElementById('date').innerHTML=Date()
+
 function Date() {
-  alert
+  alert(document.innerHTML=Date());
 }
