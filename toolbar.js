@@ -21,6 +21,10 @@
 
 // getElementById('date').innerHTML=Date()
 
-function Date() {
-  alert(document.innerHTML=Date());
-}
+var date=newDate()
+alert(date);
+
+var dt=newDate();
+document.write(dt);
+
+newDate(year, month, day, hours, minuts, seconds, milliseconds);
