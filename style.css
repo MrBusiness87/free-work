@@ -15,6 +15,15 @@ h1{
   text-decoration: solid green;
   margin: 5px auto 10px;
 }
+.toolbar{
+  background: lightgreen;
+  height: 100px;
+  width: 80%;
+}
+img{
+  height: 50px;
+  width: 50px;
+}
 .container{
   /* background: gray; */
   position: fixed;
