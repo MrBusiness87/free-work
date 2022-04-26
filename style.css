@@ -8,7 +8,7 @@ body{
 h1{
   width: 330px;
   font-style: italic;
-  border-style: dotted dashed solid double;
+  border-style: dotted dashed;
   font-weight: 900;
   text-align: center;
   color: rgb(158, 133, 50);
@@ -24,6 +24,7 @@ img{
   height: 50px;
   width: 50px;
   float: left;
+  margin-left: 10px;
 }
 .container{
   /* background: gray; */
