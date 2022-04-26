@@ -2,6 +2,9 @@ body{
   background: url(./images/darkblue-hires.jpg);
   background-size: contain;
   }
+.time {
+  float: left;
+}
 h1{
   width: 330px;
   font-style: italic;
