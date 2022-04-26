@@ -20,6 +20,12 @@ h1{
   height: 100px;
   width: 80%;
 }
+.toolbar-left{
+  float: left;
+}
+.toolbar-right{
+  float: right;
+}
 img{
   height: 50px;
   width: 50px;
