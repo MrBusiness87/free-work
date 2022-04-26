@@ -23,6 +23,7 @@ h1{
 img{
   height: 50px;
   width: 50px;
+  float: left;
 }
 .container{
   /* background: gray; */
