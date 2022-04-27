@@ -1,6 +1,7 @@
 body{
-  background: url(./images/darkblue-hires.jpg);
-  background-size: contain;
+  background: url(./images/ocean-LG.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
   }
 .time {
   margin-top: -2%;
