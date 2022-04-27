@@ -4,7 +4,7 @@ body{
   }
 .time {
   margin-top: -2%;
-  margin-left: 5%;
+  margin-left: 2.5%;
   float: left;
 }
 h1{
@@ -15,7 +15,7 @@ h1{
   text-align: center;
   color: rgb(158, 133, 50);
   text-decoration: solid green;
-  margin: -5% auto 4% 14.5%;
+  margin: -5% auto 2% 34.5%;
   float: left;
 }
 .toolbar{
