@@ -1,5 +1,5 @@
 body{
-  background: url(./images/ocean-LG.jpg);
+  background: url(./images/darkblue-hires.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   }
@@ -50,7 +50,7 @@ img{
   height: 725px;
   width: 880px;
   margin: 5% auto .25%;
-  background-image: url(./images/dark-wood.jpg);
+  background-image: url(./images/ocean-LG.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position-x: center;
