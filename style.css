@@ -4,34 +4,12 @@ body{
   background-repeat: no-repeat;
   }
 h1{
-  width: 530px;
   font-style: italic;
   border-style: dotted dashed;
   font-weight: 900;
   text-align: center;
   color: rgb(158, 133, 50);
   text-decoration: solid green;
-  margin: -3.5% auto 2% 34.5%;
-  float: left;
-}
-.toolbar{
-  background: lightgreen;
-  height: 80px;
-  width: 80%;
-}
-.toolbar-left{
-  margin-top: -2.5%;
-  float: left;
-}
-.toolbar-right{
-  margin-top: -2.5%;
-  float: right;
-}
-img{
-  height: 50px;
-  width: 50px;
-  float: left;
-  margin-left: 10px;
 }
 .container{
   /* background: gray; */
