@@ -21,7 +21,7 @@ h1{
 }
 .toolbar{
   background: lightgreen;
-  height: 100px;
+  height: 80px;
   width: 80%;
 }
 .toolbar-left{
@@ -50,7 +50,7 @@ img{
   height: 725px;
   width: 880px;
   margin: 5% auto .25%;
-  background-image: url(./images/ocean-LG.jpg);
+  background-image: url(./gifs/ocean_underwater.gif);
   background-repeat: no-repeat;
   background-size: cover;
   background-position-x: center;
