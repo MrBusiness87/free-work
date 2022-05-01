@@ -3,13 +3,17 @@ body{
   background-size: cover;
   background-repeat: no-repeat;
   }
-h1{
+.navbar-brand img{
+  width: 60%;
+  
+}
+h3{
+  width: 100%;
+  margin-left: 20%;
   font-style: italic;
   border-style: dotted dashed;
-  font-weight: 900;
   text-align: center;
   color: rgb(158, 133, 50);
-  text-decoration: solid green;
 }
 .container{
   /* background: gray; */
