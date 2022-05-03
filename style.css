@@ -6,13 +6,6 @@ body{
   background-size: cover;
   background-repeat: no-repeat;
   }
-.navbar-brand img{
-  width: 40%;
-  margin: auto;
-}
-.nav-link img{
-  margin-left: -40%;
-}
 h3{
   width: 105%;
   text-align: center;
@@ -37,8 +30,4 @@ h3{
   /* background: rgb(172, 164, 63); */
   border-radius: 40%;
   border: 2px rgb(158, 133, 50);
-}
-.face{
-  margin-left: 250px;
-  margin-top: 150px;
 }
