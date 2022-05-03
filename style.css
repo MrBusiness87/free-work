@@ -1,10 +1,10 @@
 *{
   color: rgb(158, 133, 50);
 }
-body{
+html, body{
   background: url(./images/darkblue-hires.jpg);
   background-size: cover;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   }
 .navbar-brand img{
   width: 50%;
