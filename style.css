@@ -1,7 +1,7 @@
 *{
   color: rgb(158, 133, 50);
 }
-html, body{
+body{
   background: url(./images/darkblue-hires.jpg);
   background-size: cover;
   background-repeat: repeat;
