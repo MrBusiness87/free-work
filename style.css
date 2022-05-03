@@ -1,22 +1,23 @@
+*{
+  color: rgb(158, 133, 50);
+}
 body{
   background: url(./images/darkblue-hires.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   }
-.navbar-brand img,
-.nav-link img{
+.navbar-brand img{
   width: 40%;
+  margin: auto;
 }
 .nav-link img{
   margin-left: -40%;
 }
 h3{
   width: 105%;
-  margin-left: 125%;
   text-align: center;
   font-style: italic;
   border-style: dotted dashed;
-  color: rgb(158, 133, 50);
 }
 .penguin-house{
   position: fixed;
