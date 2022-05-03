@@ -6,6 +6,10 @@ body{
   background-size: cover;
   background-repeat: no-repeat;
   }
+.navbar-brand img{
+  width: 50%;
+  margin-right: 0px;
+}
 h3{
   width: 105%;
   text-align: center;
