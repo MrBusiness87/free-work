@@ -6,9 +6,16 @@ body{
   background-size: cover;
   background-repeat: repeat;
   }
+.welcome{
+  margin-top: 15%;
+}
 .welcome h1,
 .signin{
   text-align: center;
+}
+.welcome button{
+  width: 20%;
+  height: 10%;
 }
 .nav{
   margin-top: 15px;
