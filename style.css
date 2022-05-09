@@ -13,6 +13,9 @@ body{
 .signin{
   text-align: center;
 }
+#emailHelp{
+  color: rgb(158, 133, 50);
+}
 .welcome button{
   width: 20%;
   height: 10%;
