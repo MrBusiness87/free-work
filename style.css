@@ -28,6 +28,10 @@ body{
   margin-top:15px;
   margin-left: 5px;
 }
+.item-1{
+  font-size: 240%;
+  margin-left: 1%;
+}
 h3{
   width: 105%;
   font-size: 300%;
