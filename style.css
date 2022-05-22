@@ -34,6 +34,9 @@ body{
   margin-left: 1%;
   font-weight: 500;
 }
+h2, h4{
+  text-align: center;
+}
 h3{
   width: 105%;
   font-size: 250%;
