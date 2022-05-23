@@ -1,18 +1,24 @@
-.homeText{
-  color: rgb(158, 133, 50);
-  font-style: italic;
-}
 body{
   background: url(./images/darkblue-hires.jpg);
   background-size: cover;
   background-repeat: repeat;
-  }
+}
+.homeText{
+  color: rgb(158, 133, 50);
+  font-style: italic;
+  font-weight: 800;
+}
+h1, h2, h3, h4, .signin{
+  text-align: center;
+  box-shadow: black 200px;
+}
+h3{
+  width: 105%;
+  font-size: 250%;
+  border-style: dotted dashed;
+}
 .welcome{
   margin-top: 15%;
-}
-.welcome h1,
-.signin{
-  text-align: center;
 }
 #emailHelp{
   color: rgb(158, 133, 50);
@@ -34,23 +40,6 @@ body{
   margin-left: 1%;
   font-weight: 500;
 }
-h2, h4{
-  text-align: center;
-}
-h3{
-  width: 105%;
-  font-size: 250%;
-  text-align: center;
-  font-style: italic;
-  border-style: dotted dashed;
-}
-.penguin-house{
-  position: fixed;
-  bottom: 0;
-  right: 30px;
-  float: right;
-  width: 238px;
-}/* contains the penguin character */
 .main-window{
   height: 725px;
   width: 880px;
@@ -63,3 +52,10 @@ h3{
   border-radius: 40%;
   border: 2px rgb(158, 133, 50);
 }
+.penguin-house{
+  position: fixed;
+  bottom: 0;
+  right: 30px;
+  float: right;
+  width: 238px;
+}/* contains the penguin character */
