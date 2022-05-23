@@ -54,7 +54,7 @@ h3{
 .main-window{
   height: 725px;
   width: 880px;
-  margin: 2.5% auto auto;
+  margin: auto;
   background-image: url(./gifs/ocean_underwater.gif);
   background-repeat: no-repeat;
   background-size: cover;
