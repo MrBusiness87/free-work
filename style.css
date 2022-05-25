@@ -1,17 +1,18 @@
 body{
-  background: url(./images/darkblue-hires.jpg);
+  background: url(./images/blue-circles.jpg);
   background-size: cover;
   background-repeat: repeat;
   background-attachment: scroll;
 }
-.homeText{
+.homeText, .intro, #emailHelp{
   color: rgb(158, 133, 50);
+}
+.homeText{
   font-style: italic;
   font-weight: 800;
 }
 h1, h2, h3, h4, .signin{
   text-align: center;
-  box-shadow: black 200px;
 }
 h3{
   width: 105%;
@@ -20,15 +21,11 @@ h3{
 }
 .intro{
   max-width: 80%;
-  
-  color: rgb(158, 133, 50);
   font-size: 140%;
 }
 .welcome{
+  background-image: url(./images/blue-with-gold-frame.jpg);
   margin-top: 15%;
-}
-#emailHelp{
-  color: rgb(158, 133, 50);
 }
 .welcome button{
   width: 20%;
