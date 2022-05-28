@@ -20,6 +20,7 @@ h3{
   border-style: dotted dashed;
 }
 .intro{
+  margin-top: 15%;
   max-width: 80%;
   font-size: 140%;
 }
